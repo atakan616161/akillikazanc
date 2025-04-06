@@ -1,0 +1,23 @@
+<section class="bg-blue-500 text-white py-20 px-4 text-center">
+  <h1 class="text-4xl font-bold mb-4">Aylık %10-50 Kazanç</h1>
+  <p class="text-xl mb-6 max-w-3xl mx-auto">Yapay zeka destekli yatırım robotumuz ile her ay düzenli kazanç sağlamak mümkün. Minimum risk, maksimum kazanç ve tam güvenlik ile yatırım yapın.</p>
+  <a href="#demo" class="bg-yellow-400 text-gray-900 px-6 py-3 rounded-lg text-lg">Hemen Başlayın</a>
+</section>
+
+<section class="bg-white py-16 px-4">
+  <h2 class="text-3xl font-bold text-center mb-10">Neden Biz?</h2>
+  <div class="max-w-5xl mx-auto grid md:grid-cols-3 gap-8 text-left">
+    <div>
+      <h3 class="text-xl font-semibold mb-2">📊 Otomatik Yatırım Robotu</h3>
+      <p>Yapay zeka destekli, 7/24 çalışan yatırım robotu ile kazancınızı otomatik yönetin.</p>
+    </div>
+    <div>
+      <h3 class="text-xl font-semibold mb-2">💰 Gerçek Kâr</h3>
+      <p>%10-%50 arası aylık kazanç ile pasif gelir elde edin. Yatırımcılar için şeffaf ve güvenli bir sistem.</p>
+    </div>
+    <div>
+      <h3 class="text-xl font-semibold mb-2">🔐 Güvenli Yatırım</h3>
+      <p>Yatırımlarınız yüksek güvenlikli altyapı ile korunur ve sadece sizin kontrolünüzdedir.</p>
+    </div>
+  </div>
+</section>
